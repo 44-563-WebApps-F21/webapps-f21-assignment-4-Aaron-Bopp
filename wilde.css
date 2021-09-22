@@ -24,3 +24,8 @@
 .basildon {
     color:Pink;    
 }
+table, th, td {
+    border: 2px dashed saddlebrown;
+    padding: 2em;
+    margin: 1px;
+}
