@@ -3,6 +3,10 @@
     font-size:large;
     color:Black;
 }
+.name:hover {
+    filter:drop-shadow(2px 2px 2px black);
+
+}
 .stage-direction {
     font:Times;
     font-size:small;
