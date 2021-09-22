@@ -1,11 +1,11 @@
 .name {
     font:Times;
-    font-size:40;
+    font-size:large;
     color:Black;
 }
 .stage-direction {
     font:Times;
-    font-size:40;
+    font-size:small;
     color:Black;
     background-color:LightBlue;
 }
@@ -15,7 +15,7 @@
 }
 .speech {
     font:Times;
-    font-size:40;
+    font-size:medium;
     color:Black;
 }
 .marchmont {
