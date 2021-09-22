@@ -1,0 +1,26 @@
+.name {
+    font:Times;
+    font-size:40;
+    color:Black;
+}
+.stage-direction {
+    font:Times;
+    font-size:40;
+    color:Black;
+    background-color:LightBlue;
+}
+.stage-direction:hover {
+    background-color:Blue;
+    color:White;
+}
+.speech {
+    font:Times;
+    font-size:40;
+    color:Black;
+}
+.marchmont {
+    color:Red;
+}
+.basildon {
+    color:Pink;    
+}
